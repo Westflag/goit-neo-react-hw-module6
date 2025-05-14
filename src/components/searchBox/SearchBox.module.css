@@ -1,0 +1,18 @@
+.search-box {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.search-box label {
+    display: flex;
+    flex-direction: column;
+    font-weight: 500;
+}
+
+.search-box input {
+    margin-top: 4px;
+    padding: 6px;
+    font-size: 14px;
+}
